@@ -23,14 +23,24 @@ The ad agency is planning to produce a new ad campaign for Diabetes testing kit.
 * The task involved uploading multiple CSV files into SQL Server and utilizing [SQL Queries](https://github.com/sangeetharavi13/US-Diabetes-Tracker/blob/main/SQLQuery_Diabetes.sql) like joins to create appropriate tables.
 *  Performed data cleaning to handle missing values in SQL Tables.
 
-## Data Analysis and Data Visualisation
+## Data Visualisation
 ### Tableau Public Dashboard: [US Adult Diabetes Tracker 2010-2020](https://public.tableau.com/app/profile/sangeetha.ravikumar5659/viz/USNationalDiabetesdata2010-2020/USDiabetes2010-2020)
+
+## KPI
 
 * The prevalence of diabetes in Male and Female gender across US states.
 
+[![Alt Text](gender.png)](https://public.tableau.com/app/profile/sangeetha.ravikumar5659/viz/USNationalDiabetesdata2010-2020/USDiabetes2010-2020)
+
 * The number of diabetes diagnoses in different states across US.
+
+[![Alt Text](states.png)](https://public.tableau.com/app/profile/sangeetha.ravikumar5659/viz/USNationalDiabetesdata2010-2020/USDiabetes2010-2020)
 
 * The occurrence rate of diabetes in various age groups across different states in the United States.
 
+[![Alt Text](Age.png)](https://public.tableau.com/app/profile/sangeetha.ravikumar5659/viz/USNationalDiabetesdata2010-2020/USDiabetes2010-2020)
+
 * The prevalence of diabetes in diverse racial groups across different states of the United States.
+
+[![Alt Text](Race.png)](https://public.tableau.com/app/profile/sangeetha.ravikumar5659/viz/USNationalDiabetesdata2010-2020/USDiabetes2010-2020)
 
