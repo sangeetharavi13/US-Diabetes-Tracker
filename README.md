@@ -12,8 +12,11 @@ This Dashboard will help the ad agency gain valuable insights into the demograph
 * Tableau
 * MS Excel
 
-## Data Acquisation
+## Data Acquisation and Data Cleaning
 
 * Collected data from [CDC Surveillance](https://gis.cdc.gov/grasp/diabetes/diabetesatlas-surveillance.html#)
 * The task involved uploading multiple CSV files into SQL Server and utilizing [SQL Queries](https://github.com/sangeetharavi13/US-Diabetes-Tracker/blob/main/SQLQuery_Diabetes.sql) like joins to create appropriate tables.
-*  Converted SQL tables to CSV format and exported them.
+*  Performed data cleaning to handle missing values in SQL Tables.
+
+## Data Analysis and Data Visualisation
+### Tableau Public Dashboard: [US Adult Diabetes Tracker 2010-2020](https://public.tableau.com/app/profile/sangeetha.ravikumar5659/viz/USNationalDiabetesdata2010-2020/USDiabetes2010-2020)
