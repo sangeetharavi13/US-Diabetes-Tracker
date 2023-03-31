@@ -44,3 +44,10 @@ The ad agency is planning to produce a new ad campaign for Diabetes testing kit.
 
 [![Alt Text](Race.png)](https://public.tableau.com/app/profile/sangeetha.ravikumar5659/viz/USNationalDiabetesdata2010-2020/USDiabetes2010-2020)
 
+## CONCLUSION
+
+* 8.08% of the US population—had diagnosed diabetes in 2010-2020.
+* A larger proportion of males are diagnosed with diabetes in the US than females.
+* Between 2010-2020 time period, California, Texas, Florida, Pennsylvania, and Ohio had the highest number of diagnosed diabetes cases.
+* Among adults Hispanic and Non Hispanic White have large nuber of people diagnosed with diabetes.
+
