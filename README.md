@@ -14,4 +14,4 @@ This Dashboard will help the ad agency gain valuable insights into the demograph
 
 ## Data Acquisation
 
-* Collected data from [CDC Surveillance(https://gis.cdc.gov/grasp/diabetes/diabetesatlas-surveillance.html#)
+* Collected data from [CDC Surveillance](https://gis.cdc.gov/grasp/diabetes/diabetesatlas-surveillance.html#)
