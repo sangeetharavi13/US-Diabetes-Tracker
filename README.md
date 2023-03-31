@@ -8,6 +8,6 @@ This Dashboard will help the ad agency gain valuable insights into the demograph
 
 ## Technologies used ⚙️
 
-* SQL(MS SQL SERVER)
+* SQL (MS SQL SERVER)
 * Tableau
 * MS Excel
