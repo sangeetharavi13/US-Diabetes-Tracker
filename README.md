@@ -15,4 +15,4 @@ This Dashboard will help the ad agency gain valuable insights into the demograph
 ## Data Acquisation
 
 * Collected data from [CDC Surveillance](https://gis.cdc.gov/grasp/diabetes/diabetesatlas-surveillance.html#)
-* The task involved uploading multiple CSV files into SQL Server and utilizing SQL Joins to create appropriate tables.
+* The task involved uploading multiple CSV files into SQL Server and utilizing [SQL Queries](https://github.com/sangeetharavi13/US-Diabetes-Tracker/blob/main/SQLQuery_Diabetes.sql) like joins to create appropriate tables.
