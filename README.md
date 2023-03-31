@@ -10,11 +10,6 @@ This Dashboard will help the ad agency gain valuable insights into the demograph
 
 The ad agency is planning to produce a new ad campaign for Diabetes testing kit. They want data on the demographics and diabetes diagnosis patterns across various US states. This information should assist them in developing effective advertising and marketing tactics.
 
-* The prevalence of diabetes in Male and Female gender across US states.
-* The number of diabetes diagnoses in different states across US.
-* The occurrence rate of diabetes in various age groups across different states in the United States.
-* The prevalence of diabetes in diverse racial groups across different states of the United States.
-
 
 ## Technologies used ⚙️
 
@@ -30,3 +25,12 @@ The ad agency is planning to produce a new ad campaign for Diabetes testing kit.
 
 ## Data Analysis and Data Visualisation
 ### Tableau Public Dashboard: [US Adult Diabetes Tracker 2010-2020](https://public.tableau.com/app/profile/sangeetha.ravikumar5659/viz/USNationalDiabetesdata2010-2020/USDiabetes2010-2020)
+
+* The prevalence of diabetes in Male and Female gender across US states.
+
+* The number of diabetes diagnoses in different states across US.
+
+* The occurrence rate of diabetes in various age groups across different states in the United States.
+
+* The prevalence of diabetes in diverse racial groups across different states of the United States.
+
