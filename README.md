@@ -44,7 +44,7 @@ The ad agency is planning to produce a new ad campaign for Diabetes testing kit.
 
 [![Alt Text](Race.png)](https://public.tableau.com/app/profile/sangeetha.ravikumar5659/viz/USNationalDiabetesdata2010-2020/USDiabetes2010-2020)
 
-## CONCLUSION
+## Conclusion
 
 * 8.08% of the US population—had diagnosed diabetes in 2010-2020.
 * A larger proportion of males are diagnosed with diabetes in the US than females.
