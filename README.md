@@ -6,6 +6,15 @@ The New Face ad agency is seeking a dashboard that can generate informative data
 
 This Dashboard will help the ad agency gain valuable insights into the demographics and trends of diabetes diagnosis in different US states, and can inform their advertising and marketing strategies accordingly.
 
+## Problem Statement
+
+The ad agency is planning to produce a new ad campaign for Diabetes testing kit. They want data on the demographics and diabetes diagnosis patterns across various US states. This information should assist them in developing effective advertising and marketing tactics.
+
+* The number of diabetes diagnoses in different states across US.
+* The occurrence rate of diabetes in various age groups across different states in the United States.
+* The prevalence of diabetes in diverse racial groups across different states of the United States.
+
+
 ## Technologies used ⚙️
 
 * SQL (MS SQL SERVER)
